@@ -4,7 +4,7 @@ function Email() {
 	return (
 		<label>
 			Email:  
-			<input type="email"/>
+			<input type="email" />
 		</label>
 
 	)

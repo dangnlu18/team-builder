@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import  Name from './name';
 import Role from './role';
 import Email from './email';
